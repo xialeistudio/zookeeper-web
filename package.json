@@ -1,0 +1,9 @@
+{
+  "name": "zookeeper-web",
+  "version": "0.0.1",
+  "description": "zookeeper web administrator",
+  "main": "index.js",
+  "repository": "https://github.com/xialeistudio/zookeeper-web.git",
+  "author": "xialeistudio <xialeistudio@gmail.com>",
+  "license": "MIT"
+}
